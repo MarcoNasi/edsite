@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "projects": "Progetti",
+    "blog": "Blog",
+    "contact": "Contatti",
+    "clientArea": "Area Clienti"
+  },
+  "theme": {
+    "light": "Chiaro",
+    "dark": "Scuro",
+    "system": "Sistema"
+  },
+  "language": {
+    "en": "🇬🇧 Inglese",
+    "it": "🇮🇹 Italiano"
+  }
+}
